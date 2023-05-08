@@ -1,4 +1,4 @@
-# Week-9-Modelling-IP
+# Naive bayes classifier & KNN models
 
 # Project Description
 
